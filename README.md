@@ -32,6 +32,6 @@ The **Smart Fire Detection System for Agriculture** is an AI- and IoT-based solu
 - **Communication Modules**: HC-12 (field data), A9G (SMS/GPS)
 - **Power Supply**: Battery/solar with regulator
 
----
+------
 
 
